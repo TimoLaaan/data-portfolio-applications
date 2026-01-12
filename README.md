@@ -16,17 +16,17 @@ as a Junior Data Analyst / Junior Data Scientist.
 ### 1. Exploratory Data Analysis
 - Analysis of real-world datasets
 - Focus on data cleaning, visualization and insights
-➡️ See folder: `eda/`
+➡️ See folder: `01_exploratory_data_analysis`
 
 ### 2. Business Analysis
 - Data-driven business questions
 - KPI analysis and recommendations
-➡️ See folder: `business_analysis/`
+➡️ See folder: `02_business_analysis`
 
 ### 3. Machine Learning
 - Introductory ML models (regression & classification)
 - Emphasis on interpretability
-➡️ See folder: `machine_learning/`
+➡️ See folder: `03_machine_learning`
 
 ## About Me
 Aspiring Junior Data Analyst / Data Scientist with a strong focus on Python.
